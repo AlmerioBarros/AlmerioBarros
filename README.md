@@ -4,6 +4,12 @@
 - <img width= 20px height= 20px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Alem do curso, estudando ReactJS ;
 - 📧 Email para contato: almerio.work@gmail.com
 
+<div>
+ <img src = "https://github-readme-stats.vercel.app/api?username=AlmerioBarros&show_icons=true&theme=dark">
+ <img height = 194em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmerioBarros&hide_progress=donut">
+ 
+</div>
+
 ## 
 
 ### Repertório de Linguagens e Ferramentas:
