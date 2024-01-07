@@ -5,8 +5,8 @@
 - 📧 Email para contato: almerio.work@gmail.com
 
 <div>
- <img src = "https://github-readme-stats.vercel.app/api?username=AlmerioBarros&show_icons=true&theme=dark">
- <img height = 194em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmerioBarros&layout=compact&theme=dark">
+ <img widht = 50% src = "https://github-readme-stats.vercel.app/api?username=AlmerioBarros&show_icons=true&theme=swift">
+ <img widht = 50% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmerioBarros&layout=compact&theme=swift">
  
 </div>
 
